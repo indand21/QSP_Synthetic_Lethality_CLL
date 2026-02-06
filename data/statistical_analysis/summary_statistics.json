@@ -1,0 +1,20 @@
+{
+  "total_drugs_tested": 9,
+  "top_synthetic_lethality_score": 8.882551940856006,
+  "mean_synthetic_lethality_score": 4.924311903122842,
+  "std_synthetic_lethality_score": 2.3362928185069602,
+  "top_drug": "VE-822 (ATR inhibitor)",
+  "target_distribution": {
+    "ATR": 2,
+    "PARP": 2,
+    "WEE1": 1,
+    "ATR+PARP": 1,
+    "ATR+PARP+WEE1": 1,
+    "CHK1": 1,
+    "ATM": 1
+  },
+  "performance_metrics": {
+    "total_execution_time": 5.43574070930481,
+    "simulation_efficiency": 1.6557081143686547
+  }
+}
